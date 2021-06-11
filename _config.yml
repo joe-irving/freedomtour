@@ -1,0 +1,76 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Freedom Tour 2021
+email: freedomtour21@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This summer, the Freedom Tour’s happening. It’s a moving romp through
+  the UK, aiming to connect and grow the wider movement for a democratic,
+  ecological and sane society.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+
+# Build settings
+theme: jekyll-rebellion
+# Theme settings
+logo: /assets/images/logo-rect.png
+logo_square: /assets/images/avatar.png
+logo_light: /assets/images/logo-rect-light.png
+# facebook: \#
+# twitter: \#
+# instagram: \#
+# copyright_notice: Add an additional copyright notice here.
+# donate: /donate/
+# join_us: /join-us/
+# $xr-green, $xr-yellow, $xr-light-blue, $xr-pink, $xr-purple, $xr-dark-blue $xr-light-blue, xr-light-green, $xr-pastel-yellow
+brand_color: "#0f529b"
+accent_color: "#daa6c7"
+# invert_brand_text: false
+# invert_accent_text: true
+# theme_tiny: 250
+# theme_small: 425
+# theme_medium: 570
+# theme_large: 770
+#main_nav_exclude_layouts: # Array of layout names to exclude from the main nav.
+#header_pages: Array of pages (filepaths) to include in header nav
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
