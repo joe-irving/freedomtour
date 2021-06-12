@@ -62,6 +62,7 @@ accent_color: "#daa6c7"
 
 plugins:
   - jekyll-feed
+  - jekyll-leaflet
 
 # Exclude from processing.
 # The following items will not be processed, by default.
