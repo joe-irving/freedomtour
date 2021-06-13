@@ -16,5 +16,18 @@ blocks:
   - target: "/about"
     text: Read more
   image: ''
+- template: block
+  type: map
+  half: true
+  text: |-
+    # Map
+
+    A map of the route the freedom tour will take.
+  buttons:
+  - text: Full map
+    target: "/map"
+  image: ''
+  heading: ''
+  heading_background: false
 
 ---
