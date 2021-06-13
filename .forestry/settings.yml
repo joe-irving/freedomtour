@@ -4,14 +4,18 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
+- type: document
+  path: index.md
+  label: Home
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: assets/uploads
-public_path: "/assets/uploads"
+upload_dir: assets/images
+public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"

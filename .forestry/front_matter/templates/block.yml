@@ -1,0 +1,67 @@
+---
+label: Block
+hide_body: true
+fields:
+- name: type
+  type: select
+  default: heading
+  config:
+    required: false
+    options:
+    - heading
+    - image
+    - map
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+  description: The type of block you are adding
+- name: half
+  type: boolean
+  label: Half and half panel?
+  description: Toggle false if you want this block not to have a text section and
+    fill up the entire width of the page
+  default: true
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  description: The header the appears over the top
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Text
+  showOnly:
+    field: half
+    value: false
+- name: buttons
+  type: field_group_list
+  fields:
+  - name: text
+    type: text
+    config:
+      required: true
+    label: Text
+  - name: target
+    type: text
+    config:
+      required: true
+    label: Target
+  config:
+    min: 0
+    max: 3
+    labelField: 
+  label: buttons
+  showOnly:
+    field: half
+- name: heading_background
+  type: boolean
+  label: Add transluent background to heading?

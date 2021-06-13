@@ -1,0 +1,34 @@
+---
+label: Home page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: top_image
+  label: top_image
+- type: field_group
+  name: jump
+  label: jump
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: target
+    label: target
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - block
+  config:
+    min: 
+    max: 
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Social media image
+  default: "/assets/images/og-preview.png"
