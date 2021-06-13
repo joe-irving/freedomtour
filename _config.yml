@@ -50,7 +50,7 @@ logo_light: /assets/images/logo-rect-light.png
 # facebook: \#
 # twitter: \#
 # instagram: \#
-# copyright_notice: Add an additional copyright notice here.
+copyright_notice: Made with love from Website's Dissent.
 # donate: /donate/
 # join_us: /join-us/
 # $xr-green, $xr-yellow, $xr-light-blue, $xr-pink, $xr-purple, $xr-dark-blue $xr-light-blue, xr-light-green, $xr-pastel-yellow
@@ -69,6 +69,8 @@ plugins:
   - jekyll-feed
   - jekyll-leaflet
   - jekyll-liquify
+
+locale: en_gb
 
 # Exclude from processing.
 # The following items will not be processed, by default.
