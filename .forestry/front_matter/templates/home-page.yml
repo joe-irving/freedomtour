@@ -18,29 +18,11 @@ fields:
   - type: text
     name: target
     label: target
-- type: field_group_list
-  name: blocks
-  label: blocks
-  fields:
-  - type: text
-    name: type
-    label: type
-  - type: boolean
-    name: half
-    label: half
-  - type: text
-    name: heading
-    label: heading
-  - type: text
-    name: text
-    label: text
-  - type: field_group_list
-    name: buttons
-    label: buttons
-    fields:
-    - type: text
-      name: text
-      label: text
-    - type: text
-      name: target
-      label: target
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - block
+  config:
+    min: 
+    max: 
