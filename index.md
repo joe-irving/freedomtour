@@ -16,7 +16,11 @@ blocks:
   - type: map
     half: true
     text: |-
-      # Map etc
+      # Map
 
-      Blah blah blah blah
+      A map of the route the freedom tour will take.
+
+    buttons:
+      - text: Full Map
+        target: /map
 ---
