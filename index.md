@@ -8,10 +8,13 @@ image: "/assets/images/og-preview.png"
 blocks:
 - template: block
   type: heading
-  half: false
+  half: true
   heading: About
   heading_background: false
-  text: ''
-  buttons: []
+  text: "{{ site.description }}"
+  buttons:
+  - target: "/about"
+    text: Read more
+  image: ''
 
 ---
