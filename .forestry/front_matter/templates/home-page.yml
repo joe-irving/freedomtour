@@ -1,0 +1,46 @@
+---
+label: Home page
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: top_image
+  label: top_image
+- type: field_group
+  name: jump
+  label: jump
+  fields:
+  - type: text
+    name: text
+    label: text
+  - type: text
+    name: target
+    label: target
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: boolean
+    name: half
+    label: half
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: text
+    label: text
+  - type: field_group_list
+    name: buttons
+    label: buttons
+    fields:
+    - type: text
+      name: text
+      label: text
+    - type: text
+      name: target
+      label: target
