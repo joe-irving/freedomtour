@@ -18,18 +18,29 @@ fields:
       path: 
   label: Type
   description: The type of block you are adding
-- name: half
-  type: boolean
-  label: Half and half panel?
-  description: Toggle false if you want this block not to have a text section and
-    fill up the entire width of the page
-  default: true
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  showOnly:
+    field: type
+    value: image
 - name: heading
   type: text
   config:
     required: false
   label: Heading
   description: The header the appears over the top
+- name: heading_background
+  type: boolean
+  label: Add transluent background to heading?
+- name: half
+  type: boolean
+  label: Half and half panel?
+  description: Toggle false if you want this block not to have a text section and
+    fill up the entire width of the page
+  default: true
 - name: text
   type: textarea
   default: ''
@@ -41,7 +52,7 @@ fields:
   label: Text
   showOnly:
     field: half
-    value: false
+    value: true
 - name: buttons
   type: field_group_list
   fields:
@@ -62,6 +73,4 @@ fields:
   label: buttons
   showOnly:
     field: half
-- name: heading_background
-  type: boolean
-  label: Add transluent background to heading?
+    value: true
