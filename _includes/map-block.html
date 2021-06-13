@@ -1,0 +1,7 @@
+{% leaflet_map {"zoom" : 7,
+                "center" : [52.8  ,-1.5],
+                "divId" : "Rebellion-Map",
+                
+                } %}
+    {% leaflet_geojson "/assets/route.geojson" %}
+{% endleaflet_map %}

@@ -1,0 +1,15 @@
+#Rebellion-Map{
+  height: 100%;
+  width: 100%;
+}
+.Rebellion-Header{
+  z-index: 10000;
+}
+.Rebellion-Block{
+  .heading{
+    text-align: center;
+    &::after{
+      content: url("/assets/images/wheel.png");
+    }
+  }
+}
