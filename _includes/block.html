@@ -15,7 +15,7 @@
         {% endif %}
       </div>
       {% if heading and heading != '' %}
-        <div class="heading">
+        <div class="heading" id="{{ heading | url_encode | downcase }}">
           <h1>{{ heading }}</h1>
         </div>
       {% endif %}

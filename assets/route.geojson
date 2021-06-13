@@ -19,7 +19,7 @@ layout: none
       }
     },
     {% for point in site.route %}
-      {% if point.lat != '' and point.lng != '' and point.lat and point.lng %}
+      {% if point.lat != '' and point.lng != '' and point.lat and point.lng and point.Location and point.Location != '' %}
     {
       "type": "Feature",
       "properties": {
