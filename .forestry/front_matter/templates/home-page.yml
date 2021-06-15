@@ -34,3 +34,4 @@ fields:
   default: "/assets/images/og-preview.png"
 pages:
 - index.md
+- index.md
