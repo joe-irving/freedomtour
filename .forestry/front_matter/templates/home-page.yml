@@ -10,14 +10,15 @@ fields:
   label: top_image
 - type: field_group
   name: jump
-  label: jump
   fields:
   - type: text
     name: text
     label: text
   - type: text
     name: target
-    label: target
+    label: Target to jump to
+    description: e.g for a heading below "About Us" write <strong>about-us</strong>
+  label: 'Button at bottom center '
 - name: blocks
   type: blocks
   label: Blocks
