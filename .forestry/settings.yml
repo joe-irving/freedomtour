@@ -5,6 +5,9 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: document
+  path: _config.yml
+  label: Config
+- type: document
   path: index.md
   label: Home
 - type: jekyll-posts
