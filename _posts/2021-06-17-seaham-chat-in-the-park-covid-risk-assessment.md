@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seaham Chat-In-The-Park Covid Risk Assessment
-date: 2021-06-17T23:00:00.000+00:00
+date: 2021-06-18 11:00:00 +0000
 categories:
 - Week 1
 - County Durham
