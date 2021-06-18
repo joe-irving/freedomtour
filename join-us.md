@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Join Us
----
-# Join us
+title: Get Updates
 
-Please fill out the form below if you want to join the freedom tour!
+---
+# Get Updates
+
+Please fill out the form below to get updates on the Freedom Tour or to join the adventure!
 
 {% include contact-form.html %}
