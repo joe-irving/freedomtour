@@ -6,7 +6,7 @@ categories:
 - County Durham
 - Week 1
 excerpt: ''
-image: ''
+image: "/assets/images/pxl_20210617_113201376.jpg"
 
 ---
 It's Sunday, and the Freedom Tour has arrived! And what a beautiful sight to arrive to...
@@ -18,5 +18,7 @@ We spent our first night camped up by [The Sands](https://www.google.com/maps/pl
 The sign-ups flew onto our hastily-drawn sign-up sheet while we juggled entertaining and cooking a nutritious, vegan bolognese.
 
 Then came Monday, or Day One, and we headed to the heart of Durham. We burst onto [the scene](https://www.instagram.com/p/CQHS6xJJpVG/) with a spectacular entrance (not pictured), jumped out and put our best [canvassing heads](https://www.ted.com/talks/david_fleischer_how_to_fight_prejudice_through_policy_conversations) on.
+
+![](/assets/images/pxl_20210614_113356863.jpg)
 
 If the tour continues like this, we are in for a treat.
