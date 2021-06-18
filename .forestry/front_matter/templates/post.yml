@@ -25,3 +25,5 @@ fields:
     schema:
       format: markdown
   label: Summary/excerpt
+pages:
+- _posts/hello-world.md
