@@ -26,5 +26,5 @@ fields:
       format: markdown
   label: Summary/excerpt
 pages:
+- _posts/2021-06-17-seaham-chat-in-the-park-covid-risk-assessment.md
 - _posts/hello-world.md
-- _posts/seaham-chat-in-the-park-covid-risk-assessment.md
