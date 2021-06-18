@@ -15,10 +15,31 @@ button.Rebellion-Button{
 input[type="submit"], button{
   margin: $spacing-unit auto;
 }
-.Rebellion-Form{
-  > *:not([hidden]){
-    display: block;
+// Action network resets
+#can_embed_form {
+  list-style: none;
+  form{
+    ul{
+      list-style: none;
+    }
+    li {
+      &::marker &::before{
+        display: none;
+      }
+
+    }
+    .check_radio_field{
+      >*{
+        display: block;
+      }
+    }
   }
+  #logo_wrap{
+    display: none;
+  }
+}
+.Rebellion-Form{
+
   div.input.text{
     margin: $spacing-unit*1.5 0;
     display: flex;
