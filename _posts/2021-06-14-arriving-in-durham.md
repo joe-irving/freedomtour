@@ -1,0 +1,20 @@
+---
+layout: post
+title: Arriving in Durham
+date: 2021-06-14 11:00:00 +0000
+categories:
+- County Durham
+- Week 1
+excerpt: ''
+image: ''
+
+---
+The tour has arrived! And what a beautiful sight to arrive to.
+
+Sun, river and smiling faces.
+
+We spent our first night camped up by The Sands in East Durham and no sooner had we got our provocative, painted doors out than we had people gagging to know what we are about.
+
+The sign-ups flew onto our hastily-drawn sign-up sheet while we juggled entertaining and cooking a nutritious, vegan bolognese.
+
+If the tour continues like this, we are in for a treat.
