@@ -25,6 +25,11 @@ fields:
     schema:
       format: markdown
   label: Summary/excerpt
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
 pages:
 - _posts/2021-06-17-seaham-chat-in-the-park-covid-risk-assessment.md
 - _posts/hello-world.md
