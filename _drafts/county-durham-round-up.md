@@ -11,9 +11,9 @@ image: ''
 ---
 What a week to start the tour with!
 
-4 days of speaking to the good people of Durham, Peterlee, Seaham, X and X. A jam-packed tour of the collieries with [Haswell Parish Councillor, Chris Hood](https://haswell.parish.durham.gov.uk/councillors/councillor-chris-hood/). Climaxing with one big-fat, community-connecting chat-in-the-park!
+4 days of speaking to the good people of Durham, Peterlee, Seaham, Easlington and Haswell. A jam-packed tour of the collieries with independent [Durham County Councillor](https://democracy.durham.gov.uk/mgUserInfo.aspx?UID=8068) and [Haswell Parish Councillor, Chris Hood](https://haswell.parish.durham.gov.uk/councillors/councillor-chris-hood/). This week climaxed with one big-fat, community-connecting chat-in-the-park!
 
-And what a chat-in-the-park it was! We asked the question "X" and were \[emotion\] by what we learned. Particular challenges in getting the space up and running included \[X\], but we pulled it off with \[X\] people in socially-distant attendance.
+And what a chat-in-the-park it was! We asked the question "X" and were \[emotion\] by what we learned. Particular challenges in getting the space up and running included \[X\], but we pulled it off with \[X\] people in socially-distant attendance. (please clap)
 
 The chat was followed by some talks from speakers talking about ...
 
@@ -25,4 +25,4 @@ Love,
 
 Ash
 
-Head-Porridge-Chef 
+Head-Porridge-Chef
