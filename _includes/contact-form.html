@@ -1,0 +1,44 @@
+<form
+  method="POST"
+  action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSc-p2ImjCkE0RpP6Lm6LUePxAAM4Y15s6zlsFji1sbL0kyLVw/formResponse"
+  class="Rebellion-Form">
+
+  <div class="input text">
+    <input type="text" for="name-in" name="entry.76249840" required>
+    <label id="name-in">Name</label>
+  </div>
+
+  <div class="input text">
+    <input type="email" for="email-in" name="entry.223148560" required>
+    <label for="email-in">Email</label>
+  </div>
+
+  <div class="input text">
+    <input type="tel" for="tel-in" name="entry.116390146" required>
+    <label id="tel-in">Number</label>
+  </div>
+
+  <div class="input">
+    <input type="checkbox" id="upcoming-events" value="YES"  name="entry.624501552">
+    <label for="upcoming-events">Do you want information about our upcoming events in your area?</label>
+  </div>
+
+  <div class="input">
+    <input type="checkbox" id="future-contact" value="YES" name="entry.1085131303">
+    <label for="future-contact">Are you happy for us to stay in contact about the freedom tour?</label>
+  </div>
+
+  <div class="input">
+    <input type="checkbox" id="other-campaigns" value="YES" name="entry.124693348">
+    <label for="other-campaigns">Can we let you know about other campaigns we're involved with?</label>
+  </div>
+
+  <div class="input text">
+    <textarea
+    {% if include.expand != false %}class="expand"{% endif %}
+    type="text" for="message" name="entry.2122534959"></textarea>
+    <label id="message">Anything else?</label>
+  </div>
+
+  <button class="Rebellion-Button" type="submit">Submit</button>
+</form>
