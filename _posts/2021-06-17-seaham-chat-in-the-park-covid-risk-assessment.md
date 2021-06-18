@@ -7,7 +7,7 @@ categories:
 - County Durham
 - Risk Assessment
 excerpt: ''
-image: ''
+image: "/assets/images/cute-medical-mask-cartoon-icon-illustration-on-transparent-background-png.png"
 
 ---
 We will be taking suitable Covid precautions on the day as set out in our risk assessment.
