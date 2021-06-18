@@ -30,8 +30,18 @@ fields:
   config:
     maxSize: 64
   label: Image
+- name: custom_slug
+  type: boolean
+  label: Custom url slug?
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
+  showOnly:
+    field: custom_slug
+    value: true
 pages:
 - _posts/2021-06-17-seaham-chat-in-the-park-covid-risk-assessment.md
-- _posts/arriving-in-durham.md
 - _posts/county-durham-round-up.md
 - _posts/hello-world.md
