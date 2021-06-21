@@ -6,7 +6,7 @@ categories:
 - County Durham
 - Round-up
 excerpt: ''
-image: ''
+image: "/assets/images/pxl_20210619_121343791-2.jpg"
 custom_slug: false
 slug: ''
 
