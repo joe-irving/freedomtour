@@ -67,6 +67,17 @@ As social-media amateurs, we dipped our collective toe in [Tiktok ](https://www.
 
 You can also [sign up for updates](https://freedomtour.uk/join-us/).
 
+### Thanks, we couldn't have done it without you
+
+Infinite thanks and praise on everyone who made this tour possible so far:
+
+* The team: canvassing, cooking, playing and hosting. All very much pushing their comfort zones.
+* Our host, Ellena, who kept us fed, showered and rested, with a place to put our tents.
+* Jackie and Rob for lending support.
+* The "elders" who gave us send-off advice on the eve of the tour.
+* The Climate Emergency Fund for a grant to help this pro-democracy project afford fuel money.
+* The supportive team of Freedom Tourers who were touring via their computer screens and lending online support.
+
 Love,
 
 Ash
