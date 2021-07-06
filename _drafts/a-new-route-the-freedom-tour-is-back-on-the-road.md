@@ -10,3 +10,6 @@ custom_slug: false
 slug: ''
 
 ---
+We had to take a brief pause to make sure none of us were carrying Covid-19 and risk spreading it to the places we were visiting, but it's given us time to hone the schedule and think carefully about where we're going next. 
+
+It's a painful process, as we can't visit everywhere. But we're thrilled to be landing in these spots across England and Wales. 
