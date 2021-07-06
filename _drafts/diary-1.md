@@ -12,3 +12,30 @@ custom_slug: false
 slug: ''
 
 ---
+A week and a half ago, 7 friends in their twenties, careened into Durham with a big blue van, with the words ‘What’s Next?’ emblazoned in giant pink letters on its side.
+
+Funny. Many people assumed we were some religious organisation. It’s apparently hard to imagine a group of people might voluntarily decide to come together to improve things, even if it was only 35 years ago that county durham was the beating heart of the UK’s most powerful trade union.
+
+However, talking to a pair of Jehova’s Witnesses i’d stopped on the streets of Seaham, we did agree that these feel like the end times. For them it was the dejection you can see in people’s faces. For me it was more the likelihood of our delicate ecosystems reaching the cascading tipping points which will trigger collapse. Both are related of course.
+
+The conclusions we draw from this state of things is quite different though. In their world God is really the only one with any power around here, and our job as humans is to wait it out until we could reach the promised land. Our God’s are dead. More importantly, the things most people have come to replace the idea of God with -the State, the House, the Marriage, the Career, etc- have died too. And all we really have is one another.
+
+This whole thing is almost like that moment of being left home alone as a child for the first time and needing to decide for yourself how you’re going to spend your life.
+
+Only in our case, our house is on fire, the extinguishers have been locked up, the keys are melting, the fumes are dizzying and every wall is a screen blaring some hypnotic advert.
+
+But also, vitally, in our case, we are not home alone. We are with dear friends. And we discover more and more in each corner of this building.
+
+Contrary to the popular mythology issuing out of the walls, it is not in our parents (God or State) leaving that we’ve found freedom. It is in each other. It’s what we allow each other to do, it’s the way we remember each other's dreams of becoming and notice when we stray. It’s how in this way, all these distractions lose their power over a collectively guarded, individually created understanding of who we are and what we want to be.
+
+And what a relief to discover this isn’t yet another new rootless, contextless idea:
+
+_“Freedom” and “friend” share the same early Indo-European root: *fri-, or *pri-, meaning “love.” This root made its way into Gothic, Norse, Celtic, Hindi, Russian, and German. A thousand years ago, the Germanic word for “friend” was the present participle of the verb freon, “to love.” This language also had an adjective, *frija-. It meant “free” as in “not in slavery,” where the reason to avoid slavery was to be among loved ones. Frija meant “beloved, belonging to the circle of one’s beloved friends and family.”_ (Joyful Militancy - Carla Bergman and Nick Montgomery)
+
+All of this is hard to convey in a 10-second pitch to someone on the street. But lucky for us we’re not selling anything, and not trying to get anyone to join anything. What we’re looking for is connection and understanding. So much to most people’s surprise we just want to know what’s going on for you. How’s life? How’s this pandemic been? What’s scaring you? What’s making you hopeful?
+
+And that is how I have had dozens of profoundly detailed impressions of people’s lives. All infinitely diverse and vastly different, but with pretty much the same things at their core: I’m lonely, I’m powerless, I’m bored, I’m overwhelmed, I’m grateful for this chance to share.
+
+Sometimes I can see some of this new/old/different idea of freedom transmitting. People’s faces light up a bit. I can see a recognition of something in their eyes. A confirmation of some dream that got lost on the way.
+
+Not that it’s an easy thing to sustain. For what are we having all of these conversations? What’s our solution? What are we building towards? What will we become? All live questions. Nevertheless, the group of friends asking them is growing.
