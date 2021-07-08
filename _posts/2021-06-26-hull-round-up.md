@@ -38,4 +38,6 @@ And the [GOSH](https://www.facebook.com/GoshHull/) group (Gardens and Open Space
 
 All of these together, and all of the contributions of the other attendees, built a picture of how we can carve out some autonomy and, dare I say it, freedom to do so much more together.
 
+As Emma told us "what I've learnt from Hull since I've been here is that there's a DIY spirit of survival and thriving and finding ways, which no one should be ashamed of, that's what's going to get the human race through the future".
+
 ![](/assets/images/whatsapp-image-2021-06-24-at-13-27-30.jpeg)
