@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Hull Round-Up
-date: 
-categories: []
+date: 2021-06-26 23:00:00 +0000
+categories:
+- Hull
 excerpt: ''
 image: "/assets/images/whatsapp-image-2021-06-22-at-14-34-36.jpeg"
 custom_slug: false
