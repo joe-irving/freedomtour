@@ -10,8 +10,6 @@ custom_slug: false
 slug: ''
 
 ---
-![](/assets/images/whatsapp-image-2021-06-22-at-14-34-36.jpeg)
-
 ### Round and about in Hull
 
 Despite an awkward arrival in Hull - getting tangled up in a complex system of roadworks and circling the city for hours - we were warmly welcomed into Queen Victoria square. The people of Hull were curious and excited to chat and, like almost everyone we've meet, had an enormous amount to teach us. On top of that, for whatever reason, the council and the police didn't intervene much more than asking us to move after a few hours. We found this conviviality the whole time. At North Point shopping centre, the park where we camped, in the showers of our new friends, and in everyone who joined us for our Big Chat the day after. Hull, what a place to be!
