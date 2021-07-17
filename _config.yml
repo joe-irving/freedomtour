@@ -1,9 +1,9 @@
 ---
 title: Freedom Tour 2021
 email: freedomtour21@gmail.com
-description: This summer, the Freedom Tour’s happening. It’s a moving romp through
-  the UK, aiming to connect and grow the wider movement for a democratic, ecological
-  and sane society.
+description: This summer, the Freedom Tour’s happening. It’s a group of young people
+  travelling through the UK, aiming to connect and grow the wider movement for a democratic,
+  ecological and sane society.
 logo: "/assets/images/logo-rect.png"
 logo_square: "/assets/images/avatar.png"
 logo_light: "/assets/images/logo-rect-light.png"
@@ -12,7 +12,6 @@ instagram: https://www.instagram.com/freedomtour21/
 copyright_notice: Made with love from Website's Dissent.
 brand_color: "#0f529b"
 accent_color: "#daa6c7"
-
 baseurl: ''
 url: https://freedomtour.uk
 permalink: pretty
@@ -26,11 +25,9 @@ defaults:
   values:
     image: "/assets/images/og-preview.png"
 theme: jekyll-rebellion
-
 collections:
   posts:
-    permalink: /news/:year/:month/:day/:slug
-
+    permalink: "/news/:year/:month/:day/:slug"
 plugins:
 - jekyll-feed
 - jekyll-leaflet
