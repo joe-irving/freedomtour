@@ -44,7 +44,7 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 * After a break, some campaigns or individuals are invited to **tell their story of what can be done to face a crisis**. Everyone who attended can set themselves some next steps or homework of how they can get the World to something closer to that they wish to see.
 * We finish with some fun social time and relax into being with one another. We also invite people to come write/draw on our van!
 
-  ![](/assets/images/creative.jpeg)
+![](/assets/images/creative.jpeg)
 
 ## What does the Freedom Tour get out of it?
 
