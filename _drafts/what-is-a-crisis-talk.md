@@ -34,9 +34,11 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 
 * After the food has been shared, people are invited into the space to **testify about what brought them here today** and compelled them to speak to the group. (Maximum 2 mins for any testimony)
 
-  ![](/assets/images/testimony.jpeg)
+* ![](/assets/images/testimony.jpeg)
 
-* Then the group is broken up into smaller circles and introduced to the questions that will be the basis of the **smaller group dialogue**. Every group will need a **facilitator** (to keep the group to the topic, help the group meet its purpose of creating some conclusions/outputs, and ensure the time spent speaking and listening is shared within the circle) and a **note-taker** (to capture the gist of the dialogue and main conclusions/outputs).
+* Then the group is broken up into smaller circles and introduced to the questions that will be the basis of the **smaller group dialogue**. Every group will need:
+  * a **facilitator** to keep the group to the topic, help the group meet its purpose of creating some conclusions/outputs, and ensure the time spent speaking and listening is shared within the circle.
+  * a **note-taker** to capture the gist of the dialogue and main conclusions/outputs.
 
 ![](/assets/images/groups.jpeg)
 
