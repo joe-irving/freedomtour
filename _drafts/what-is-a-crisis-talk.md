@@ -33,7 +33,7 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 
 ![](/assets/images/rock-up.jpeg)
 
-* Share the food
+* Share the delicious, nutritious food.
 * People are invited into the space to **testify about what brought them here today** and compelled them to speak to the group. (Maximum 2 mins for any testimony)
 
 ![](/assets/images/testimony.jpeg)
