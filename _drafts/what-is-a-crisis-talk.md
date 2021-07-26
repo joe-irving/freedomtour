@@ -25,6 +25,7 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 * **Researching** the local circumstances and groups and **find a suitable event location**.
 * Inviting groups that are also engaged in a struggle to the event.
 * (Most importantly) **Conversing with strangers** on the street, hearing their take on The World, and **inviting them to the Crisis Talk**.
+* **Admin**: sending reminder texts and emails, creating online event pages, filling out paperwork like risk assessments.
 
 ### How a Crisis Talk runs:
 
