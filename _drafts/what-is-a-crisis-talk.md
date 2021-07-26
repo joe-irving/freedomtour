@@ -16,7 +16,7 @@ I believe that the answers to our problems are in all of us, because the answers
 
 The Crisis Talk helps us to bring people to the table, asking them to share which of the intersecting crises is impinging on them and what it would mean for them to be able to make headway into challenging their crisis.
 
-### So, What Happens?
+### What Happens?
 
 Here is a rough outline of the steps we try to go through... but it is quite an organic, unique thing each time a Crisis Talk happens.
 
@@ -36,9 +36,9 @@ On the day of the event:
 
 ### What does the Freedom Tour get out of it?
 
-Apart from a social buzz, warm sense of community, and the lingering feeling that something has been set in motion?
+Apart from a social buzz, **warm sense of communit**y, and the lingering feeling that **something has been set in motion**?
 
-That's it really: we get to be around people in a space created to help each of us be open, connected, supported, and human. We learn a lot from those we share the space with, and some amazing work may happen down the road by the connections, introductions and ideas brewed here.
+That's it really: we get to be around people in a space created to help each of us be open, connected, supported, empowered and human. We learn a lot from those we share the space with, and believe some amazing work may happen down the road due to the connections, introductions, and ideas brewed here.
 
 I hope it is as much of a gift to those who take part, as to those who host it.
 
