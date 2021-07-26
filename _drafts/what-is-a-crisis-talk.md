@@ -29,10 +29,18 @@ Before the event, we put in the groundwork:
 On the day of the event:
 
 * We rock up in our beautiful blue van at the planned time and start **cooking some delicious free food and create a fun atmosphere**... think music and warm smiles and the slight electric-tingly-feeling that tells you something special is about to happen.
+
+  ![](/assets/images/rock-up.jpeg)
 * After the food has been shared, people are invited into the space to **testify about what brought them here today** and compelled them to speak to the group. (Maximum 2 mins for any testimony)
 * Then the group is broken up into smaller circles and introduced to the questions that will be the basis of the **smaller group dialogue**. Every group will need a **facilitator** (to keep the group to the topic, help the group meet its purpose of creating some conclusions/outputs, and ensure the time spent speaking and listening is shared within the circle) and a **note-taker** (to capture the gist of the dialogue and main conclusions/outputs).
+
+![](/assets/images/groups.jpeg)
+
 * After 30 mins, the groups conclude and each group nominates someone from their group to **feedback their group's conclusions**/outputs to the whole Crisis Talk assembly. All the outputs from all the groups are collated on a large piece of paper for everyone to see.
 * After a break, some campaigns or individuals are invited to **tell their story of what can be done to face a crisis**. Everyone who attended can set themselves some next steps or homework of how they can get the World to something closer to that they wish to see.
+* We finish with some fun social time and relax into being with one another. We also invite people to come write/draw on our van!
+
+  ![](/assets/images/creative.jpeg)
 
 ### What does the Freedom Tour get out of it?
 
