@@ -45,7 +45,7 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 ![](/assets/images/groups.jpeg)
 
 * After 30 mins, the groups conclude and each group nominates someone from their group to **feedback their group's conclusions**/outputs to the whole Crisis Talk assembly. All the outputs from all the groups are collated on a large piece of paper for everyone to see.
-* After a break, some campaigns or individuals are invited to **tell their story of what can be done to face a crisis**. Everyone who attended can set themselves some next steps or homework of how they can get the World to something closer to that they wish to see.
+* After a break, some campaigns or individuals are invited to **tell their stories of what can be done to face a crisis**. Everyone who attended can set themselves some next steps or homework of how they can get the World to something closer to that they wish to see.
 * We finish with some **fun social time and relaxing** into being with one another. We also invite people to write/draw on our van!
 
 ![](/assets/images/creative.jpeg)
