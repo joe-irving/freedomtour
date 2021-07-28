@@ -8,6 +8,7 @@ excerpt: When we say we will be holding a "Crisis Talk", what does that look lik
 image: "/assets/images/crisis-talk.jpeg"
 custom_slug: true
 slug: crisis-talk
+permalink: crisis-talk
 
 ---
 As we are travelling around, we **aim to foster dialogue**. We want to listen and learn, as much as we want to talk and teach.
