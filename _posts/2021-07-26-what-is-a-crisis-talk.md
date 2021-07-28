@@ -6,7 +6,7 @@ categories: []
 excerpt: When we say we will be holding a "Crisis Talk", what does that look like
   and what do we intend to achieve?
 image: "/assets/images/crisis-talk.jpeg"
-custom_slug: true
+custom_slug: false
 slug: crisis-talk
 permalink: crisis-talk
 
