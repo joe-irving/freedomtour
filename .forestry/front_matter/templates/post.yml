@@ -41,6 +41,12 @@ fields:
   showOnly:
     field: custom_slug
     value: true
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
+  description: If you post needs a custom permalink e.g. freedomtour.uk/crisis
 pages:
 - _posts/2021-06-17-seaham-chat-in-the-park-covid-risk-assessment.md
 - _posts/2021-06-19-county-durham-round-up.md
