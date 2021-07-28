@@ -13,9 +13,11 @@ permalink: crisis-talk
 ---
 As we are travelling around, we **aim to foster dialogue**. We want to listen and learn, as much as we want to talk and teach.
 
+> **Crisis Talk (Noun)** - a cross-community event exposing the impact of current crises on a group and asking what actions they can take to improve their resilience.
+
 I believe that the answers to our problems are in all of us, because the answers are very human and can be found in our lived experience. We wish to avoid polarisation and division.
 
-The Crisis Talk helps us to bring people to the table, asking them to share which of the intersecting crises is impinging on them and what it would mean for them to be able to make headway into challenging their crisis.
+The **Crisis Talk** helps us to bring people to the table, asking them to share which of the intersecting crises is impinging on them and what it would mean for them to be able to make headway into challenging their crisis.
 
 ## What Happens?
 
@@ -23,7 +25,7 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 
 ### Before the event, we put in the groundwork:
 
-* **Researching** the local circumstances and groups and **find a suitable event location**.
+* **Researching** the local circumstances and active local organisations, plus **finding a suitable event location**.
 * Inviting groups that are also engaged in a struggle to the event.
 * (Most importantly) **Conversing with strangers** on the street, hearing their take on The World, and **inviting them to the Crisis Talk**.
 * **Admin**: sending reminder texts and emails, creating online event pages, filling out paperwork, e.g. risk assessments.
@@ -39,7 +41,7 @@ Here is a rough outline of the steps we try to go through... but it is quite an 
 
 ![](/assets/images/testimony.jpeg)
 
-* Then the group is broken up into smaller circles and introduced to the questions that will be the basis of the **smaller group dialogue**. Every group will need:
+* Then the group is broken up into smaller circles and introduced to the questions that will be the basis of the **smaller group dialogue**. Every small group will need:
   * a **facilitator** to keep the group to the topic, help the group meet its purpose of creating some conclusions/outputs, and ensure the time spent speaking and listening is shared within the circle.
   * a **note-taker** to capture the gist of the dialogue and main conclusions/outputs.
 
@@ -61,6 +63,6 @@ I hope it is as much of a gift to those who take part, as to those who host it.
 
 ## So when are YOU going to host a Crisis Talk?
 
-It can be daunting, but it is also natural and you have it in you to host a Crisis Talk. We can't be the only ones doing this when the stakes are so high and the process is so fun.
+??You, the reader, can also do this where you are. It can be daunting, but it is also natural and you have it in you to host a Crisis Talk. We can't be the only ones doing this when the stakes are so high and the process is so fun.
 
 If you need advice and guidance, please [get in touch](https://freedomtour.uk/join-us/)!
