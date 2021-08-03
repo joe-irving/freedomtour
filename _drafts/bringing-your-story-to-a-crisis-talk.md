@@ -5,7 +5,7 @@ date: 2021-08-03 23:00:00 +0000
 categories:
 - Crisis Talk
 excerpt: ''
-image: ''
+image: "/assets/images/act-now.jpg"
 custom_slug: false
 slug: ''
 
@@ -32,6 +32,8 @@ There are many reasons, but here are the big ones:
 * **Show shared humanity** in their struggle - people are sharing a bite to eat and a 30-minute chat, this leads one to put value in the concerns of other campaigns even if they don't directly affect you. This can lead someone from being ignorant or unmoved to a position of support for a cause. \[See [Deep Canvassing](https://www.ted.com/talks/david_fleischer_how_to_fight_prejudice_through_policy_conversations "Deep Canvassing TED Talk")\]
 * **Educate people that are hard to reach** - the Crisis Talk is inclusive in a way that exposes many non-progressive or radical people to those that they wouldn't otherwise meet. This is a rare way to get certain worlds to collide in a constructive way.
 * **Recruiting for a campaign** - some attendees sign up to a mailing list of a campaign or offer up time as a volunteer/activist. This may be a totally new world for them and their first taste of activism. Be gentle!
+
+[solidarity.png?fit=750%2C438&ssl=1](https://i0.wp.com/www.roars.it/online/wp-content/uploads/2016/09/solidarity.png?fit=750%2C438&ssl=1 "solidarity.png?fit=750%2C438&ssl=1")
 
 ## Previous Call-To-Actions
 
