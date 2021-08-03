@@ -41,10 +41,9 @@ There are many reasons, but here are the big ones:
   * This summer, the Freedom Tour’s happening. It’s a campaign travelling through the UK, aiming to connect and grow the wider movement for a democratic, ecological and sane society. It achieves this through street canvassing and hosting "Crisis Talk" community events.
   * (Yes we want people to join us on our own call-to-action!)
   * [https://freedomtour.uk/](https://freedomtour.uk/ "https://freedomtour.uk/")
-* **Abolish Detention - Hassockfield**
+* **Abolish Detention**
   * A group of individuals that stand against detention for anyone, anywhere. We are outraged at the use of detention centres in the UK.
-
-    This group focusses on the planned opening of a detention centre in Consett, and how we can combat its opening.
+  * This group focusses on the planned opening of a detention centre in Consett, and how we can combat its opening.
   * [Facebook](https://www.facebook.com/Abolish-Detention-Hassockfield-103117778532701/ "Abolish Detention - Hassockfield Facebook")
 * **Insulate Britain**
   * A campaign to pressure the UK Government to reduce home heating emissions to zero.
