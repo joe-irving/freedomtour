@@ -1,6 +1,7 @@
 ---
 layout: page
-title: News
+title: Blog
+
 ---
 # News
 
