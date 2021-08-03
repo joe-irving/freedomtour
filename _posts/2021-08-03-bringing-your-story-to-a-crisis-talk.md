@@ -12,7 +12,7 @@ slug: ''
 ---
 ## Who are we inviting to bring a Call-To-Action?
 
-We are reaching out to progressive groups that have highlighted crises or issues and are taking direct action to target the root of these problems, or building community power and cohesion for more caring and resilient communities.
+We are reaching out to **progressive groups** that have highlighted crises or issues and are taking direct action to target the root of these problems, or building community power and cohesion for more caring and resilient communities.
 
 ## Where does this fit in the Crisis Talk?
 
@@ -33,7 +33,7 @@ There are many reasons, but here are the big ones:
 * **Educate people that are hard to reach** - the Crisis Talk is inclusive in a way that exposes many non-progressive or radical people to those that they wouldn't otherwise meet. This is a rare way to get certain worlds to collide in a constructive way.
 * **Recruiting for a campaign** - some attendees sign up to a mailing list of a campaign or offer up time as a volunteer/activist. This may be a totally new world for them and their first taste of activism. Be gentle!
 
-[solidarity.png?fit=750%2C438&ssl=1](https://i0.wp.com/www.roars.it/online/wp-content/uploads/2016/09/solidarity.png?fit=750%2C438&ssl=1 "solidarity.png?fit=750%2C438&ssl=1")
+![](/assets/images/solidarity.png)
 
 ## Previous Call-To-Actions
 
