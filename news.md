@@ -3,7 +3,7 @@ layout: page
 title: Blog
 
 ---
-# News
+# Blog
 
 {% assign posts = site.posts %}
 {% include blog-list.html %}
