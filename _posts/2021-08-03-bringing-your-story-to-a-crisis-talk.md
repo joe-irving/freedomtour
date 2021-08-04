@@ -8,6 +8,7 @@ excerpt: ''
 image: "/assets/images/act-now.jpg"
 custom_slug: false
 slug: ''
+permalink: campaign
 
 ---
 ## Who are we inviting to bring a Call-To-Action?
