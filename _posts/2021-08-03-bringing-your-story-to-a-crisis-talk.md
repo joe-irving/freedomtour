@@ -34,7 +34,9 @@ There are many reasons, but here are the big ones:
 * **Educate people that are hard to reach** - the Crisis Talk is inclusive in a way that exposes many non-progressive or radical people to your campaign and those that they wouldn't otherwise meet. This is a rare space where certain worlds to collide in a constructive way.
 * **Recruiting for a campaign** - You could grow your campaign! Some attendees sign up to a mailing list of a campaign or offer up time as a volunteer/activist. This may be a totally new world for them and their first taste of activism. Be gentle!
 
-![](/assets/images/solidarity.png)
+![](/assets/images/campaigns-on-van.jpeg)
+
+Many of our previous attendees and visiting campaigns have tagged our van.
 
 ## Previous Call-To-Actions
 
