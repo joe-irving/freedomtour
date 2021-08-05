@@ -5,13 +5,13 @@ date: 2021-08-03 21:00:00 +0000
 categories:
 - Crisis Talk
 excerpt: ''
-image: "/assets/images/act-now.jpg"
+image: "/assets/images/van2.jpeg"
 custom_slug: false
 slug: ''
 permalink: campaign
 
 ---
-## Who is invited to bring a Call-To-Action?
+## Who can bring a Call-To-Action?
 
 We are reaching out to **groups and campaigns** that have highlighted crises or issues, and are taking direct action to target the root of these problems, or building community power and cohesion for more caring and resilient communities. We want them to attend a Crisis Talk that we have organised. \[See: [Detailed Description of Crisis Talk](https://freedomtour.uk/crisis-talk)\]
 
