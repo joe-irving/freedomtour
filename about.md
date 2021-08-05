@@ -4,7 +4,7 @@ title: About
 permalink: "/about/"
 
 ---
-# About
+## What's the situation?
 
 Our political leaders, dominant ideas and cultural limits are failing to rise to the challenge of our moment. We're living through unprecedented times, times which call for new ways of thinking and being.
 
@@ -12,7 +12,9 @@ Our political leaders, dominant ideas and cultural limits are failing to rise to
 
 People across Britain are waking up to the reality of our situation; **I’ve been sold a lie**. My university degree won’t save me from rising sea levels. My 40-hour workweek isn’t making me happy. The people I vote into power don’t give a shit about me.
 
-The past 30 years have gutted this country of its political agency. Defeatism, distraction, division and despair act as walls between people and their own power. But in the wake of the pandemic, something new is building...
+The past 30 years have gutted this country of its political agency. Defeatism, distraction, division and despair act as walls between people and their own power. 
+
+## But in the wake of the pandemic, something new is building...
 
 A generation of politicised young people - who rallied around Corbyn, Fridays For Future, and now Kill the Bill - long for a movement that can unite different struggles and create real change.
 
