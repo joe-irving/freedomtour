@@ -10,3 +10,26 @@ slug: ''
 permalink: plymouth
 
 ---
+The Freedom Tour is coming to Plymouth. Below, I will share our plans.
+
+## Friday
+
+We will be setting up our van and canvassing station somewhere central around 10am.
+
+![](/assets/images/plym-out.png)
+
+We will first try the marked "primary area" in red. We will aim to stay here most of the day, but may also spend time in the blue "secondary area", nearby, or at the university.
+
+We will bring our tea urns, biscuits, smiles and flyers. We will be engaging people in conversation to find out what they think about crisis and the state of Plymouth within the wider UK and human condition. What gives them hope and what are they wanting to change.
+
+The aim in our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to Saturday's [Crisis Talk](freedomtour.uk/crisis-talk).
+
+## Saturday
+
+#### Morning
+
+We will continue our outreach somewhere in Plymouth.
+
+#### 3pm - The Crisis Talk
+
+The Crisis Talk will take place at [The Plot](https://madeinplymouth.co.uk/places/the-plot/) from 3-5pm. Everyone welcome.
