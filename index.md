@@ -15,7 +15,7 @@ blocks:
 
     3pm, Saturday 7th August in Jigsaw park.
   buttons:
-  - text: Plymouth Crisis Talk
+  - text: Plymouth Crisis Talk Details
     target: "/plymouth"
   image: ''
   heading_background: false
