@@ -14,6 +14,8 @@ blocks:
     Our next Crisis Talk is in **Plymouth**.
 
     3pm, Saturday 7th August in Jigsaw park.
+
+    [Sign up for updates](freedomtour.uk/join-us) or check the [Plymouth details page](freedomtour.uk/plymouth).
   buttons:
   - text: Plymouth Crisis Talk Details
     target: "/plymouth"
