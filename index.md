@@ -3,7 +3,7 @@ layout: home
 top_image: "/assets/images/whatsapp-image-2021-06-14-at-14-17-56.jpeg"
 jump:
   text: Next Crisis Talk Details
-  target: next-crisis-talk-event
+  target: next+crisis+talk+event
 image: "/assets/images/og-preview.png"
 blocks:
 - template: block
