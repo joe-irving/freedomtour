@@ -9,6 +9,19 @@ blocks:
 - template: block
   type: heading
   half: true
+  heading: Next Crisis Talk Event
+  text: |-
+    Our next Crisis Talk is in Plymouth.
+
+    3pm, Saturday 7th August in Jigsaw park.
+  buttons:
+  - text: Plymouth Crisis Talk
+    target: "/plymouth"
+  image: ''
+  heading_background: false
+- template: block
+  type: heading
+  half: true
   heading: About
   heading_background: false
   text: "{{ site.description }}"
@@ -28,19 +41,6 @@ blocks:
     target: "/map"
   image: ''
   heading: ''
-  heading_background: false
-- template: block
-  type: heading
-  half: true
-  heading: Next Crisis Talk Event
-  text: |-
-    Our next Crisis Talk is in Plymouth.
-
-    3pm, Saturday 7th August in Jigsaw park.
-  buttons:
-  - text: Plymouth Crisis Talk
-    target: "/plymouth"
-  image: ''
   heading_background: false
 
 ---
