@@ -16,7 +16,7 @@ That's the question we sought to investigate with a day in Taunton starting our 
 
 Our experience early on was a big knockback. The proverbial doors felt slapped in our faces, where some people aggressively wanted to avoid us. I don't know if they mistakenly believe we are associated with [other groups with names that include the word "Freedom"](https://www.hopenothate.org.uk/2020/08/28/the-uks-emerging-conspiracy-theory-street-movements/), or if there is an endemic air of mistrust of any stranger who might want to offer a different hope.
 
-Fortunately, after warming up we managed some powerful conversations.
+Fortunately, after warming up we managed some powerful conversations and blew out the cobwebs that had gathered during our few days off.
 
 ## Old dogs: New tricks
 
@@ -44,8 +44,12 @@ We split up into 3 groups answering two main questions: "What is the issue that 
 
 While we like the idea behind these questions, we won't be asking them again as they were individualistic in nature, when we are aiming for groups to build conclusions that they can share with the assembly and a group can act on in the future.
 
+Many thanks to Greg plus guest-facilitator Fran for getting the assembly up to speed and holding the space.
+
 ![](/assets/images/pxl_20210804_150932383.jpg)
+
+Afterwards, the assembly stayed to eat a homemade no-egg potato salad, plus a mixed-bean salad and some donated brownies.
 
 ![Two women and a black and white cat.](/assets/images/img-20210804-wa0015.jpg "Frankie and Katie with a local cat.")
 
-A picture of the cat that tried to join the crew.
+Plus a cat tried to join the crew.
