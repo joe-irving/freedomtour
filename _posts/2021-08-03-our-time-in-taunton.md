@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our time in Taunton
-date: 2021-08-03 20:00:00 +0000
+date: 2021-08-04 20:00:00 +0000
 categories: []
 excerpt: Looking back at our first attempt of a single-day trip. In Taunton we started
   canvassing in the morning for a Crisis Talk the same afternoon.
