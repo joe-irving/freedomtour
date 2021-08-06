@@ -30,6 +30,14 @@ The award for most people engaged in one conversation was won by Katie.
 
 ![](/assets/images/img-20210805-wa0019.jpg)
 
+All these teenagers had met through Pride, aged 13-19. When asked what was important to them, pretty much everything came up. A future politics student explained that they had no choice except to be political when being constantly marginalised. Another told of being deliberately misgendered at school by staff, and the school structure dictating that all students could only be referred to by their registered names, rather than chosen names.
+
+These experiences fuelled their determination to act against the discrimination pf this unwelcoming world. Their LGBT education at school was massively lacking and commonly mistake-laden.
+
+Being in a conversation with Katie was validating for them, given they are continuously invalidated by adults around them. Currently, as legal children, they don't have much choice over who they can spend time and associate with.
+
+The fight for them is to be recognised as they are. Their struggle had sharpened their attention for injustice and oppression for others.
+
 ## But what happened at the Crisis Talk?
 
 We split up into 3 groups answering two main questions: "What is the issue that you care enough about to do something?! and "What is your practical next step to further this cause?".
