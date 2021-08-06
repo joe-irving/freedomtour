@@ -50,6 +50,6 @@ Many thanks to Greg plus guest-facilitator Fran for getting the assembly up to s
 
 Afterwards, the assembly stayed to eat a homemade no-egg potato salad, plus a mixed-bean salad and some donated brownies.
 
-![Two women and a black and white cat.](/assets/images/img-20210804-wa0015.jpg "Frankie and Katie with a local cat.")
-
 Plus a cat tried to join the crew.
+
+![Two women and a black and white cat.](/assets/images/img-20210804-wa0015.jpg "Frankie and Katie with a local cat.")
