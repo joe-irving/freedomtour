@@ -2,8 +2,8 @@
 layout: home
 top_image: "/assets/images/whatsapp-image-2021-06-14-at-14-17-56.jpeg"
 jump:
-  text: Plymouth event details
-  target: https://freedomtour.uk/plymouth
+  text: Next Crisis Talk Details
+  target: next-crisis-talk-event
 image: "/assets/images/og-preview.png"
 blocks:
 - template: block
@@ -11,7 +11,7 @@ blocks:
   half: true
   heading: Next Crisis Talk Event
   text: |-
-    Our next Crisis Talk is in Plymouth.
+    Our next Crisis Talk is in **Plymouth**.
 
     3pm, Saturday 7th August in Jigsaw park.
   buttons:
