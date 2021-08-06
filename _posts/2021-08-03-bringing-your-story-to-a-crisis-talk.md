@@ -4,7 +4,8 @@ title: Bringing your Call-To-Action
 date: 2021-08-03 21:00:00 +0000
 categories:
 - Crisis Talk
-excerpt: ''
+excerpt: A description of how groups can benefit from coming to the Crisis Talk and
+  presenting their story.
 image: "/assets/images/van2.jpeg"
 custom_slug: false
 slug: ''
