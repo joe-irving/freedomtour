@@ -2,8 +2,8 @@
 layout: home
 top_image: "/assets/images/whatsapp-image-2021-06-14-at-14-17-56.jpeg"
 jump:
-  text: Find out more
-  target: about
+  text: Plymouth event details
+  target: https://freedomtour.uk/plymouth
 image: "/assets/images/og-preview.png"
 blocks:
 - template: block
