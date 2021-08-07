@@ -25,6 +25,12 @@ defaults:
     path: ''
   values:
     image: "/assets/images/og-preview.png"
+- scope:
+    path: google1c899b51019de383.html
+  values:
+    sitemap: false
+- scope:
+    path: admin/index.html
 theme: jekyll-rebellion
 collections:
   posts:
