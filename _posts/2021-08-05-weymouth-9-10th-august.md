@@ -30,6 +30,8 @@ We will continue our outreach somewhere in Weymouth.
 
 The Crisis Talk will take place at **Weymouth Beach**. Everyone welcome.
 
+[Facebook event](https://www.facebook.com/events/675371890524016)
+
 #### Campaigns we hope to hear from at the Crisis Talk
 
 [Insulate Britain](https://www.insulatebritain.com/), Extinction Rebellion Weymouth.
