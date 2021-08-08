@@ -23,9 +23,9 @@ Some never believe it. They want to know exactly what our aims are, they want to
 
 Many can believe it though. And once they do, their bodies change visibly. They relax open, become a little more energetic, and a little more alive.
 
-Then we get to share it all, our hopes, dreams, fears, loneliness, fatigue, exasperation, and always a deep deep perseverance.
+Then we get to share it all, our hopes, dreams, fears, loneliness, fatigue, exasperation, and always deep, deep perseverance.
 
-That’s why this other line from Nina’s interview rings out to me now as a kind of credo: “all i’m trying to do all the time is open people up so they can feel themselves and let themselves be open to somebody else.”
+That’s why this other line from Nina’s interview rings out to me now as a kind of credo: “all I’m trying to do all the time is open people up so they can feel themselves and let themselves be open to somebody else.”
 
 Maybe this is our aim.
 
