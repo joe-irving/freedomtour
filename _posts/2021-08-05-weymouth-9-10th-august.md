@@ -32,6 +32,6 @@ The Crisis Talk will take place at **Weymouth Beach**. Everyone welcome.
 
 #### Campaigns we hope to hear from at the Crisis Talk
 
-Xxx, [Insulate Britain](https://www.insulatebritain.com/), Extinction Rebellion Plymouth, xxx.
+[Insulate Britain](https://www.insulatebritain.com/), Extinction Rebellion Weymouth.
 
 If you think someone should be telling their story at the event, email freedomtour21@gmail.com or message us on [instagram](https://www.instagram.com/freedomtour21).
