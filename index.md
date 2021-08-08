@@ -11,14 +11,14 @@ blocks:
   half: true
   heading: Next Crisis Talk Event
   text: |-
-    Our next Crisis Talk is in **Plymouth**.
+    Our next Crisis Talk is in **Weymouth**.
 
-    3pm, Saturday 7th August in Jigsaw park.
+    6pm, Tuesday 10th, Weymouth Beach
 
-    [Sign up for updates](freedomtour.uk/join-us) or check the [Plymouth details page](freedomtour.uk/plymouth).
+    [Sign up for updates](freedomtour.uk/join-us) or check the [Weymouth details page](freedomtour.uk/weymouth).
   buttons:
-  - text: Plymouth Crisis Talk Details
-    target: "/plymouth"
+  - text: Weymouth Crisis Talk Details
+    target: "/weymouth"
   image: ''
   heading_background: false
 - template: block
