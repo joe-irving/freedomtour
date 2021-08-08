@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Talking ourselves into freedom
-date: 2021-07-31 23:00:00 +0000
+date: 2021-08-07 00:00:00 +0000
 categories: []
-excerpt: ''
+excerpt: A thought piece from Greg
 image: ''
 custom_slug: false
 slug: ''
@@ -23,34 +23,31 @@ Some never believe it. They want to know exactly what our aims are, they want to
 
 Many can believe it though. And once they do, their bodies change visibly. They relax open, become a little more energetic and a little more alive.
 
-  
 Then we get to share it all, our hopes, dreams, fears, loneliness, fatigue, exasperation, and always a deep deep perseverance.
 
 That’s why this other line from Nina’s interview rings out to me now as a kind of credo: “all i’m trying to do all the time is open people up so they can feel themselves and let themselves be open to somebody else.”
 
 Maybe this is our aim.
 
-  
-**Finding freedom together**
+#### Finding Freedom Together
 
-In any case, what’s happening after weeks of talking to hundreds of people is the anxiety of speaking to a stranger is disappearing. We’re finding Nina’s kind of freedom out here; in the town squares, in the parks, in front of the shopping centres, we’re finding a kind of fearlessness.
+In any case, what’s happening after weeks of talking to hundreds of people is the anxiety of speaking to a stranger is disappearing. We’re finding Nina’s kind of freedom out here; in the town squares, in the parks, in front of the shopping centers, we’re finding a kind of fearlessness.
 
 And this freedom isn’t something we can find alone. Freedom, like fearlessness, is a shared thing. If we can really connect with someone, they’ll lose a little of their fear of the stranger in the process.
 
-Freedom is a kind of power that can only be found together and which has a deep longing to be shared. After our Crisis Talk one of our hosts in Bradford found herself stopping on the walk home and striking up a conversation with strangers in a pub. Something she’d never normally do.
+Freedom is a kind of power that can only be found together and which has a deep longing to be shared. After our Crisis Talk, one of our hosts in Bradford found herself stopping on the walk home and striking up a conversation with strangers in a pub. Something she’d never normally do.
 
 So for a project which ultimately wants to contribute to a deep systemic transformation of this country and this planet, what does any of this mean?
 
-  
-**step 1 to collective power: talk**
+#### Step 1 to Collective Power: Talk
 
-Well it’s important to remember how conversations have been an essential element of previous moments of mass social change. This is the point the Rob Hopkins beautifully argues toward the end of _From What Is to What If_ referencing that wild wild moment of May 1968_._
+Well, it’s important to remember how conversations have been an essential element of previous moments of mass social change. This is the point the Rob Hopkins beautifully argues toward the end of _From What Is to What If_ referencing that wild, wild moment of May 1968_._
 
 He quotes historian Mark Kurlansky who says, “ask anyone in Paris with fond memories of the spring of 1968, and that is what they will say. People talked.… Students on the street found themselves in conversation with teachers and professors for the first time. For the first time in this rigid, formal, nineteenth-century society, everyone was talking to everyone. ‘Talk to your neighbour’ were words written on the walls.”
 
 And he quotes an English student in Paris at the time who saw how “those who had never dared say anything before suddenly felt their thoughts to be the most important thing in the world and said so. The helpless and isolated suddenly discovered that collective power lay in their hands. People just went up and talked to one another without a trace of self-consciousness.”
 
-Who can know which the way the causality lies? Maybe this kind of mass talking is an outcome of wider movements, maybe it’s a cause. I suspect though that it is intimately wrapped up as both and that if revolutionary change is some kind of vehicle, talking will be the fuel that moves it.
+Who can know which way the causality lies? Maybe this kind of mass talking is an outcome of wider movements, maybe it’s a cause. I suspect though that it is intimately wrapped up as both and that if revolutionary change is some kind of vehicle, talking will be the fuel that moves it.
 
 I think this because of the way that talking dissolves fear. And how Srdja Popovic the revolutionary leader who helped topple Slobodan Milošević describes how “all oppression relies on fear in order to be effective”.
 
