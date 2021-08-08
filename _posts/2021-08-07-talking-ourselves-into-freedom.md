@@ -9,7 +9,7 @@ custom_slug: false
 slug: ''
 
 ---
-This Freedom Tour doesn’t have anything to do with the anti-lockdown Freedom Marches. Wouldn’t it be easier to call ourselves something else? avoid the confusion? Maybe. But there’s some thing about freedom that is essential to this journey.
+This Freedom Tour doesn’t have anything to do with the anti-lockdown Freedom Marches. Wouldn’t it be easier to call ourselves something else? Avoid the confusion? Maybe. But there’s something about freedom that is essential to this journey.
 
 I keep coming back to Nina Simone’s description of it as “no fear”.
 
@@ -17,11 +17,11 @@ I remember it now because in the same [interview](https://www.youtube.com/watch?
 
 And it makes total sense. After a lifetime of being treated as a prospective consumer to be solicited, a resource to be mined, in this world which will take everything you have if you don’t protect yourself, what can we expect?
 
-This is what makes one of the deepest joys of this tour when, stopping a stranger on the street, you’re able to convince them that genuinely -no really, I’m not kidding- we just want to hear how things are going for you at the moment.
+This is what makes one of the deepest joys of this tour when, upon stopping a stranger on the street, you’re able to convince them that genuinely -no really, I’m not kidding- we just want to hear how things are going for you at the moment.
 
 Some never believe it. They want to know exactly what our aims are, they want to know now, and they stomp off when I explain that we don’t really know yet.
 
-Many can believe it though. And once they do, their bodies change visibly. They relax open, become a little more energetic and a little more alive.
+Many can believe it though. And once they do, their bodies change visibly. They relax open, become a little more energetic, and a little more alive.
 
 Then we get to share it all, our hopes, dreams, fears, loneliness, fatigue, exasperation, and always a deep deep perseverance.
 
