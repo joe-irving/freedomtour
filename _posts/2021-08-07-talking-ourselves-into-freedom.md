@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talking ourselves into freedom
+title: Talking Ourselves Into Freedom
 date: 2021-08-07 00:00:00 +0000
 categories: []
 excerpt: A thought piece from Greg
