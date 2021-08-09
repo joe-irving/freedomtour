@@ -22,6 +22,10 @@ With our tea urns, biscuits, smiles, and flyers, we engaging people in conversat
 
 The aim of our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to the [Crisis Talk](freedomtour.uk/crisis-talk) at 6pm on Tuesday.
 
+Thanks to all the locals that are helping out. Special thanks to Laura Baldwin.
+
+![](/assets/images/pxl_20210809_103128529.jpg)
+
 #### Press Coverage
 
 A few publications decided to write something about our visit:
@@ -31,6 +35,10 @@ Dorset Eye - [‘Freedom Tour’ arrives in Weymouth for Crisis Talks](https://d
 Dorset Echo - ['Crisis talk' on Weymouth Beach calling for action on poverty and climate change](https://www.dorsetecho.co.uk/news/19501304.crisis-talk-weymouth-beach-calling-action-poverty-climate-change/)
 
 Planet Radio - [What's next? Campaigners in Weymouth for 'Crisis Talk'](https://planetradio.co.uk/greatest-hits/dorset/news/campaigners-in-weymouth-for-crisis-talk/)
+
+We also were fortunate enough to be shared on a local Facebook page. All publicity is good publicity, they say!
+
+![](/assets/images/facebook.jpg)
 
 ## Tuesday
 
