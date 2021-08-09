@@ -7,6 +7,7 @@ excerpt: A thought piece from Greg
 image: ''
 custom_slug: false
 slug: ''
+permalink: talking-ourselves-into-freedom
 
 ---
 This Freedom Tour doesn’t have anything to do with the anti-lockdown Freedom Marches. Wouldn’t it be easier to call ourselves something else? Avoid the confusion? Maybe. But there’s something about freedom that is essential to this journey.
