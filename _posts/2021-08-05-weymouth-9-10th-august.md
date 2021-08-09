@@ -22,13 +22,11 @@ The aim in our conversations is for us to learn from those we speak to, exchange
 
 ## Tuesday
 
-#### Daytime
-
-We will continue our outreach somewhere in Weymouth.
+We will continue our conversations somewhere in Weymouth much the same as the day before.
 
 #### 6pm - The Crisis Talk
 
-The Crisis Talk will take place at **Weymouth Beach**. Everyone welcome.
+The Crisis Talk will take place at **Weymouth Beach**. Everybody welcome.
 
 [Facebook event](https://www.facebook.com/events/675371890524016)
 
