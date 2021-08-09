@@ -10,3 +10,4 @@ slug: ''
 permalink: croydon
 
 ---
+The Freedom Tour is coming to Croydon. More details to be added soon.
