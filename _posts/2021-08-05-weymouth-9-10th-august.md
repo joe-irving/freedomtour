@@ -10,11 +10,11 @@ slug: ''
 permalink: weymouth
 
 ---
-The Freedom Tour is coming to Weymouth. Below are our plans.
+![](/assets/images/pxl_20210809_101548142.jpg)The Freedom Tour is  Weymouth. Below are our plans.
 
 ## Monday
 
-We will be setting up our van and canvassing station somewhere.
+We have set up our van near the King George III statue next to Weymouth Beach.
 
 We will bring our tea urns, biscuits, smiles, and flyers. We will be engaging people in conversation to find out what they think about crisis and the state of Weymouth within the wider UK and human condition. What gives them hope and what are they wanting to change.
 
