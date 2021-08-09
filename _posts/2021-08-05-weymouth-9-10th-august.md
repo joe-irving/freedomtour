@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weymouth, 9-10th August
-date: 2021-08-05T14:00:00.000+00:00
+date: 2021-08-09 06:00:00 +0000
 categories: []
 excerpt: Details of our visit and Crisis Talk in Weymouth
 image: "/assets/images/canva-weym2.png"
