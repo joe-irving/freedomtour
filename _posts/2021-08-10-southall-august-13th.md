@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Southall, August 13th
+title: Southall, 13th August
 date: 2021-08-10 05:00:00 +0000
 categories: []
 excerpt: Details of our visit and Crisis Talk in Southall
