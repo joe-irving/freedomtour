@@ -28,7 +28,7 @@ We will continue our conversations somewhere in Weymouth much the same as the da
 
 #### 6pm - The Crisis Talk
 
-The Crisis Talk will take place at **Weymouth Beach**. Everybody welcome.
+The [Crisis Talk](freedomtour.uk/crisis-talk) will take place at **Weymouth Beach**. Everybody welcome.
 
 [Facebook event](https://www.facebook.com/events/675371890524016)
 
