@@ -11,9 +11,7 @@ blocks:
   half: true
   heading: Next Crisis Talk Event
   text: |-
-    Our next Crisis Talk is in **Weymouth**.
-
-    6pm, Tuesday 10th, Weymouth Beach
+    ![](/assets/images/canva-weym3.png)
 
     [Sign up for updates](freedomtour.uk/join-us) or check the [Weymouth details page](freedomtour.uk/weymouth).
   buttons:
