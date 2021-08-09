@@ -10,7 +10,7 @@ slug: ''
 permalink: weymouth
 
 ---
-The Freedom Tour is  Weymouth. Below are our plans.
+The Freedom Tour is in Weymouth. Below are our plans.
 
 ## Monday
 
