@@ -10,9 +10,11 @@ slug: ''
 permalink: weymouth
 
 ---
-![](/assets/images/pxl_20210809_101548142.jpg)The Freedom Tour is  Weymouth. Below are our plans.
+The Freedom Tour is  Weymouth. Below are our plans.
 
 ## Monday
+
+![](/assets/images/pxl_20210809_101548142.jpg)
 
 We have set up our van near the King George III statue next to Weymouth Beach.
 
