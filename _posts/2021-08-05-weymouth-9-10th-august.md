@@ -20,7 +20,7 @@ We have set up our van near the King George III statue next to Weymouth Beach.
 
 We will bring our tea urns, biscuits, smiles, and flyers. We will be engaging people in conversation to find out what they think about crisis and the state of Weymouth within the wider UK and human condition. What gives them hope and what are they wanting to change.
 
-The aim in our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to the [Crisis Talk](freedomtour.uk/crisis-talk) at 6pm on Tuesday.
+The aim of our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to the [Crisis Talk](freedomtour.uk/crisis-talk) at 6pm on Tuesday.
 
 ## Tuesday
 
@@ -34,6 +34,6 @@ The Crisis Talk will take place at **Weymouth Beach**. Everybody welcome.
 
 #### Campaigns we hope to hear from at the Crisis Talk
 
-STEPS, Weyforward, Weymouth Area Development Trust, Young People Engage Positive Change, [Insulate Britain](https://www.insulatebritain.com/), Extinction Rebellion Weymouth.
+STEPS, [Weyforward](https://www.weyforward.net/), [Weymouth Area Development Trust](https://wadt.org.uk/), Young People Engage Positive Change, [Insulate Britain](https://www.insulatebritain.com/), [Extinction Rebellion Dorchester, Weymouth & Portland](https://www.facebook.com/xrdorchesterweymouthportland/).
 
 If you think someone should be telling their story at the event, email freedomtour21@gmail.com or message us on [instagram](https://www.instagram.com/freedomtour21).
