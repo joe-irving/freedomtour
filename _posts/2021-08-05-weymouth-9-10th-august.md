@@ -18,7 +18,7 @@ We will be setting up our van and canvassing station somewhere.
 
 We will bring our tea urns, biscuits, smiles, and flyers. We will be engaging people in conversation to find out what they think about crisis and the state of Weymouth within the wider UK and human condition. What gives them hope and what are they wanting to change.
 
-The aim in our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to a [Crisis Talk](freedomtour.uk/crisis-talk).
+The aim in our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to the [Crisis Talk](freedomtour.uk/crisis-talk) at 6pm on Tuesday.
 
 ## Tuesday
 
