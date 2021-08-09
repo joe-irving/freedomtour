@@ -12,7 +12,7 @@ Our political leaders, dominant ideas and cultural limits are failing to rise to
 
 People across Britain are waking up to the reality of our situation; **I’ve been sold a lie**. My university degree won’t save me from rising sea levels. My 40-hour workweek isn’t making me happy. The people I vote into power don’t give a shit about me.
 
-The past 30 years have gutted this country of its political agency. Defeatism, distraction, division and despair act as walls between people and their own power. 
+The past 30 years have gutted this country of its political agency. Defeatism, distraction, division and despair act as walls between people and their own power.
 
 ## But in the wake of the pandemic, something new is building...
 
@@ -22,3 +22,9 @@ Make no mistake: we’re in for a summer of love, rage, and resistance, and the 
 
 Expectations have been set too low for too long. People do not believe in themselves or in others. We’re trapped inside small ideas of what it’s possible.
 It’s time that changes.
+
+## Contact Us
+
+Email: freedomtour21@gmail.com
+
+[Facebook](https://www.facebook.com/freedomtour21) | [Twitter](https://twitter.com/freedomtour21) | [Instagram](https://www.instagram.com/freedomtour21/) @freedomtour21
