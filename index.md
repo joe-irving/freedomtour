@@ -10,8 +10,7 @@ blocks:
   type: heading
   half: true
   heading: Next Crisis Talk Event
-  text: |-
-    ![](/assets/images/canva-weym3.png)
+  text: |2-
 
     [Sign up for updates](freedomtour.uk/join-us) or check the [Weymouth details page](freedomtour.uk/weymouth).
   buttons:
