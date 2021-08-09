@@ -24,7 +24,7 @@ The aim of our conversations is for us to learn from those we speak to, exchange
 
 ## Tuesday
 
-We will continue our conversations somewhere in Weymouth much the same as the day before.
+We will continue our conversations somewhere in Weymouth much the same as the day before. Come find us.
 
 #### 6pm - The Crisis Talk
 
