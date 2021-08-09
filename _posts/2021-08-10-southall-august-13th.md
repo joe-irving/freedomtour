@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Southall, August 13th
-date: 2021-08-10 17:00:00 +0000
+date: 2021-08-10 05:00:00 +0000
 categories: []
 excerpt: Details of our visit and Crisis Talk in Southall
 image: "/assets/images/canva-southall.png"
