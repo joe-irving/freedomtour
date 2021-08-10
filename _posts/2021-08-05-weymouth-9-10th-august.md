@@ -16,10 +16,6 @@ The Freedom Tour is in Weymouth. Below are our plans.
 
 ![](/assets/images/pxl_20210809_101548142.jpg)
 
-We set up our van near the King George III statue next to Weymouth Beach.
-
-With our tea urns, biscuits, smiles, and flyers, we engaging people in conversation to find out what they think about crisis and the state of Weymouth within the wider UK and human condition. What gives them hope and what are they wanting to change.
-
 The aim of our conversations is for us to learn from those we speak to, exchange new viewpoints and paradigms, and ultimately invite people to the [Crisis Talk](freedomtour.uk/crisis-talk) at 6pm on Tuesday.
 
 Thanks to all the locals that are helping out. Special thanks to Laura Baldwin.
