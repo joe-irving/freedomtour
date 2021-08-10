@@ -12,6 +12,20 @@ permalink: weymouth
 ---
 The Freedom Tour is in Weymouth. Below are our plans.
 
+## Today, 6pm - The Crisis Talk
+
+The [Crisis Talk](freedomtour.uk/crisis-talk) will take place at **Weymouth Beach**. Everybody welcome.
+
+We are holding a space where people can learn about local campaigns that are shaping different spaces and services in Weymouth. Everyone who attends is invited to be in a discussion group that will feedback its conclusions to the wider assembly.
+
+[Facebook event](https://www.facebook.com/events/675371890524016)
+
+#### Campaigns we hope to hear from at the Crisis Talk
+
+STEPS, [Weyforward](https://www.weyforward.net/), [Weymouth Area Development Trust](https://wadt.org.uk/), Young People Engage Positive Change, [Insulate Britain](https://www.insulatebritain.com/), [Extinction Rebellion Dorchester, Weymouth & Portland](https://www.facebook.com/xrdorchesterweymouthportland/).
+
+If you think someone should be telling their story at the event, email freedomtour21@gmail.com or message us on [instagram](https://www.instagram.com/freedomtour21).
+
 ## Monday
 
 ![](/assets/images/pxl_20210809_101548142.jpg)
@@ -38,16 +52,4 @@ We also were fortunate enough to be shared on a local Facebook page. All publici
 
 ## Tuesday
 
-We will continue our conversations somewhere in Weymouth much the same as the day before. Come find us.
-
-#### 6pm - The Crisis Talk
-
-The [Crisis Talk](freedomtour.uk/crisis-talk) will take place at **Weymouth Beach**. Everybody welcome.
-
-[Facebook event](https://www.facebook.com/events/675371890524016)
-
-#### Campaigns we hope to hear from at the Crisis Talk
-
-STEPS, [Weyforward](https://www.weyforward.net/), [Weymouth Area Development Trust](https://wadt.org.uk/), Young People Engage Positive Change, [Insulate Britain](https://www.insulatebritain.com/), [Extinction Rebellion Dorchester, Weymouth & Portland](https://www.facebook.com/xrdorchesterweymouthportland/).
-
-If you think someone should be telling their story at the event, email freedomtour21@gmail.com or message us on [instagram](https://www.instagram.com/freedomtour21).
+We are speaking to people around the high street, send us a message on instagram ([@freedomtour21](https://www.instagram.com/freedomtour21/)) if you want to find us and say "Hi".
