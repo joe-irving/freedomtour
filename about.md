@@ -6,7 +6,7 @@ permalink: "/about/"
 ---
 ## What's the situation?
 
-Our political leaders, dominant ideas and cultural limits are failing to rise to the challenge of our moment. We're living through unprecedented times, times which call for new ways of thinking and being.
+Our political leaders, dominant ideas, and cultural limits are failing to rise to the challenge of our moment. We're living through unprecedented times, times that call for new ways of thinking and being.
 
 > The Freedom Tour is our answer to that call.
 
