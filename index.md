@@ -3,7 +3,7 @@ layout: home
 top_image: "/assets/images/whatsapp-image-2021-06-14-at-14-17-56.jpeg"
 jump:
   text: Stay In Touch
-  target: join-us
+  target: crisis+talks
 image: "/assets/images/og-preview.png"
 blocks:
 - template: block
