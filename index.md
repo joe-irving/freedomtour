@@ -25,8 +25,8 @@ blocks:
 
     Make sure to sign up for our updates so you can be involved in Freedom Tour Part 2!
   buttons:
-  - text: Weymouth Crisis Talk Details
-    target: "/weymouth"
+  - text: Get Updates Via Email
+    target: "/join-us"
   image: ''
   heading_background: false
 - template: block
