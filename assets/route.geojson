@@ -1,0 +1,396 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          
+            
+              [-1.577911377,54.77613794],
+            
+          
+            
+              [-1.338787079,54.83797161],
+            
+          
+            
+              [-0.3302764893,53.74992888],
+            
+          
+            
+              [-0.09063720703,53.56641415],
+            
+          
+            
+              [-2.621612549,53.54030739],
+            
+          
+            
+              [-2.246704102,53.47742197],
+            
+          
+            
+              [-1.782336,53.647666],
+            
+          
+            
+              [-1.759185791,53.79253943],
+            
+          
+            
+              [-2.213745117,53.02800017],
+            
+          
+            
+              [-3.948554993,51.62100082],
+            
+          
+            
+              [-2.592773438,51.46769696],
+            
+          
+            
+              [-4.139785767,50.3717444],
+            
+          
+            
+              [-2.454242706,50.60960663],
+            
+          
+            
+              [-0.377966,51.509991],
+            
+          
+            
+              [-0.100308,51.374725],
+            
+          
+            
+              [-0.0352609,51.4780042],
+            
+          
+            
+              [0.1116904,51.5251787],
+            
+          
+            
+              [0.0334312,51.58693],
+            
+          
+            
+              [0.0910015,51.5950897]
+            
+          
+        ]
+      }
+    },
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Durham City, 14th June 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.577911377,54.77613794]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Collieries (Seaham, Shorden, Haswell, Easington), 18th June 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.338787079,54.83797161]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Hull, 21st June 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.3302764893,53.74992888]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Grimsby, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.09063720703,53.56641415]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Wigan, 5th July 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.621612549,53.54030739]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Manchester, 8th July"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.246704102,53.47742197]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Huddersfield, 12th July 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.782336,53.647666]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Bradford, 14th July"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.759185791,53.79253943]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Stoke on Trent, 19th July 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.213745117,53.02800017]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Port Talbot, 26th July 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.948554993,51.62100082]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Bristol , 30th July "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.592773438,51.46769696]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Plymouth, 5th August"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.139785767,50.3717444]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Weymouth, 9th August"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.454242706,50.60960663]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Southall, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.377966,51.509991]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Croydon, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.100308,51.374725]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Deptford, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.0352609,51.4780042]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Barking and Dagenham, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1116904,51.5251787]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Walthamstow , "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.0334312,51.58693]
+      }
+    },
+      
+    
+      
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#daa6c7",
+        "marker-size": "small",
+        "marker-symbol": "circle-stroked",
+        "popupContent": "Hackney, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.0910015,51.5950897]
+      }
+    }
+      
+    
+  ]
+}
